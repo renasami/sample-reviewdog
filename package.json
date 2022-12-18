@@ -1,0 +1,30 @@
+{
+  "name": "sample-reviewdog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renasami/sample-reviewdog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renasami/sample-reviewdog/issues"
+  },
+  "homepage": "https://github.com/renasami/sample-reviewdog#readme",
+  "devDependencies": {
+    "textlint": "^12.2.4",
+    "textlint-plugin-latex2e": "^1.2.0",
+    "textlint-rule-preset-ja-engineering-paper": "^1.0.4",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
+    "textlint-rule-preset-japanese": "^7.0.0",
+    "textlint-rule-preset-jtf-style": "^2.3.13",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
